@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 首頁
+title: 蓋伊傳說
 author: Nick
 email: 47074274+nick0132@users.noreply.github.com
 description: >- # this means to ignore newlines until "show_excerpts:"
-  蓋伊傳說-攻略筆記
+  遊戲攻略筆記
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
