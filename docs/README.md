@@ -1,8 +1,4 @@
----
-layout: page
-title: 卡耐秘寶(藏寶圖)
-permalink: /treasure/
----
+# 蓋伊傳說遊戲建議與意見反饋
 
 ## 各地圖可獲得之道具與寶箱位置
 
