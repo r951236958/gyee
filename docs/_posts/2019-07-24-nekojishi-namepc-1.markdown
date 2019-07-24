@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "BUG反饋"
+title:  "家有大虎 - 林虎"
 categories: gyee
 ---
-
-## 家有大虎 - 林虎
 
 ## 基礎屬性
 
