@@ -12,7 +12,7 @@ categories: jekyll
 ![怒虎]({{ "/assets/img/Nekojishi_1.jpg" | prepend: site.baseurl }})
 ![怒虎]({{ site.baseurl }}/assets/img/Nekojishi_1.jpg)
 ![怒虎]({{ site.url }}/assets/img/Nekojishi_1.jpg)
-![怒虎](/assets/img/Nekojishi_1.jpg)
+![怒虎](../assets/img/Nekojishi_1.jpg)
 ```
 
 ![怒虎]({{ "/assets/img/Nekojishi_1.jpg" | relative_url }})
@@ -20,4 +20,4 @@ categories: jekyll
 ![怒虎]({{ "/assets/img/Nekojishi_1.jpg" | prepend: site.baseurl }})
 ![怒虎]({{ site.baseurl }}/assets/img/Nekojishi_1.jpg)
 ![怒虎]({{ site.url }}/assets/img/Nekojishi_1.jpg)
-![怒虎](/assets/img/Nekojishi_1.jpg)
+![怒虎](../assets/img/Nekojishi_1.jpg)
