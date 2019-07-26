@@ -79,3 +79,21 @@ categories: gyee
 [神力灌注]: {{ site.baseurl }}/assets/img/Nekojishi_3.jpg
 [怒虎]: {{ "/assets/img/Nekojishi_1.jpg" | relative_url }}
 [信仰之力]: {{ "/assets/img/Nekojishi_5.jpg" | prepend: site.baseurl  }}
+
+#### 圖片顯示測試
+
+```markdown
+![怒虎]({{ "/assets/img/Nekojishi_1.jpg" | relative_url }})
+![怒虎]({{ "/assets/img/Nekojishi_1.jpg" | absolute_url }})
+![怒虎]({{ "/assets/img/Nekojishi_1.jpg" | prepend: site.baseurl }})
+![怒虎]({{ site.baseurl }}/assets/img/Nekojishi_1.jpg)
+![怒虎]({{ site.url }}/assets/img/Nekojishi_1.jpg)
+![怒虎](/assets/img/Nekojishi_1.jpg)
+```
+
+![怒虎]({{ "/assets/img/Nekojishi_1.jpg" | relative_url }})
+![怒虎]({{ "/assets/img/Nekojishi_1.jpg" | absolute_url }})
+![怒虎]({{ "/assets/img/Nekojishi_1.jpg" | prepend: site.baseurl }})
+![怒虎]({{ site.baseurl }}/assets/img/Nekojishi_1.jpg)
+![怒虎]({{ site.url }}/assets/img/Nekojishi_1.jpg)
+![怒虎](/assets/img/Nekojishi_1.jpg)
