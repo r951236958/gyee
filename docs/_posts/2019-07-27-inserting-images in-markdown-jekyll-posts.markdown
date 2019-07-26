@@ -13,7 +13,7 @@ categories: jekyll
 ![怒虎]({{ site.baseurl }}/assets/img/Nekojishi_1.jpg)
 ![怒虎]({{ site.url }}/assets/img/Nekojishi_1.jpg)
 ![怒虎](../assets/img/Nekojishi_1.jpg)
-![怒虎](/assets/img/Nekojishi_1.jpg
+![怒虎](/assets/img/Nekojishi_1.jpg)
 ![怒虎](assets/img/Nekojishi_1.jpg)
 ```
 
@@ -23,5 +23,5 @@ categories: jekyll
 ![怒虎]({{ site.baseurl }}/assets/img/Nekojishi_1.jpg)
 ![怒虎]({{ site.url }}/assets/img/Nekojishi_1.jpg)
 ![怒虎](../assets/img/Nekojishi_1.jpg)
-![怒虎](/assets/img/Nekojishi_1.jpg
+![怒虎](/assets/img/Nekojishi_1.jpg)
 ![怒虎](assets/img/Nekojishi_1.jpg)
