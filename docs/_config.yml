@@ -21,6 +21,9 @@ description: >- # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+baseurl: "/the-gyee" # the subpath of your site, e.g. /blog
+url: "https://page.mnisf.com/" # the base hostname & protocol for your site, e.g. http://example.com
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
