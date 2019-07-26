@@ -74,7 +74,7 @@ categories: gyee
 
 被動效果【未知】【未知】【未知】
 
-[基礎素質]: /assets/img/Nekojishi_2.jpg
+[基礎素質]: assets/img/Nekojishi_2.jpg
 [鐵山靠]: /assets/img/Nekojishi_4.jpg
 [神力灌注]: /assets/img/Nekojishi_3.jpg
 [怒虎]: /assets/img/Nekojishi_1.jpg
