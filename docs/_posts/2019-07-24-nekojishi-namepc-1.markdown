@@ -76,6 +76,6 @@ categories: gyee
 
 [基礎素質]: ../assets/img/Nekojishi_2.jpg
 [鐵山靠]: /assets/img/Nekojishi_4.jpg
-[神力灌注]: {{ relative_url }}/assets/img/Nekojishi_3.jpg
+[神力灌注]: {{ "/assets/img/Nekojishi_3.jpg" | site.url }}
 [怒虎]: {{ "/assets/img/Nekojishi_1.jpg" | relative_url }}
 [信仰之力]: /assets/img/Nekojishi_5.jpg
